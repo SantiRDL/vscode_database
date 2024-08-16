@@ -1,0 +1,11 @@
+# Ignorar el archivo .env
+*.env
+
+# Otras entradas que ya tengas en tu .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.vscode/
